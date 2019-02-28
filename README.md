@@ -204,5 +204,8 @@ nickelodeon`
 
 Этот список будет пополняться и расширяться.
 
+(https://tproger.ru/translations/es6-cheatsheet-1/)
+(https://www.w3schools.com/js/js_best_practices.asp)
+
 
 
